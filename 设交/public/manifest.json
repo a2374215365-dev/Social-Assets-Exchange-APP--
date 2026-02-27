@@ -1,0 +1,21 @@
+{
+  "name": "设交",
+  "short_name": "设交",
+  "description": "一个量化社交价值、优化人际资产的异化社交平台。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/social-asset/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/social-asset/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

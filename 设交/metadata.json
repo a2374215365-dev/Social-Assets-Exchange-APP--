@@ -1,0 +1,5 @@
+{
+  "name": "设交",
+  "description": "一个量化社交价值、优化人际资产的异化社交平台。",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
